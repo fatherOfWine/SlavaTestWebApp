@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlavaTestWebApp", "SlavaTestWebApp\SlavaTestWebApp.csproj", "{D3656C08-D1C8-4492-8FE3-374D94F2BE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlavaTestWebApp.Tests", "SlavaTestWebApp.Tests\SlavaTestWebApp.Tests.csproj", "{C76E6B57-2139-46AD-B916-911C131D4BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3656C08-D1C8-4492-8FE3-374D94F2BE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3656C08-D1C8-4492-8FE3-374D94F2BE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3656C08-D1C8-4492-8FE3-374D94F2BE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3656C08-D1C8-4492-8FE3-374D94F2BE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76E6B57-2139-46AD-B916-911C131D4BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76E6B57-2139-46AD-B916-911C131D4BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76E6B57-2139-46AD-B916-911C131D4BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76E6B57-2139-46AD-B916-911C131D4BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A319B2E-9F65-42E1-A23E-A7B428C48076}
+	EndGlobalSection
+EndGlobal
